@@ -1,0 +1,27 @@
+.mammals {
+    height: 100vh;
+    background-color: rgb(202, 119, 52);
+    background-attachment: fixed;
+    background-image: url('mammals.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.birts {
+    height: 100vh;
+    background-color: saddlebrown;
+    background-attachment: fixed;
+    background-image: url('reptile.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.reptile {
+    height: 100vh;
+    background-color: sienna;
+    background-attachment: fixed;
+    background-image: url('peacock.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
